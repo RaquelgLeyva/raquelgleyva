@@ -21,12 +21,7 @@
 
 ### 📌 Featured Projects:
 - [🎬 Movie Manager CLI](#)
-- [📡 API integration project](#)
-
----
-
-### 📈 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelgleyva&layout=compact)
+- [📡 API integration project](https://github.com/raquelgleyva/my-zootopia)
 
 ---
 
